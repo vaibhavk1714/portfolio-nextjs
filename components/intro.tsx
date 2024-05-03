@@ -33,11 +33,11 @@ export default function Intro() {
                         <Image
                             src="/vaibhav.jpg"
                             alt="Vaibhav portrait"
-                            width="220"
-                            height="220"
+                            width="185"
+                            height="185"
                             quality="95"
                             priority={true}
-                            className="h-24 w-24 rounded-full object-cover border-[0.35rem] border-white shadow-xl"
+                            className="h-[9.5rem] w-[9.5rem] rounded-full object-cover border-[0.35rem] border-white shadow-xl"
                         />
                     </motion.div>
 
